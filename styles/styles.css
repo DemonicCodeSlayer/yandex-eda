@@ -1,6 +1,12 @@
 @import './fonts.css';
 
-div {
+body {
+    width: 100vw;
+    height: 100vh;
     font-family: Roboto;
-    font-weight: 700;
+    margin: 0;
+}
+
+.container {
+    padding: 0 349px;
 }
